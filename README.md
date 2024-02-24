@@ -1,5 +1,8 @@
 # Security Vulnerabilities and the Case of Proposal 192 and 193
 
+![proposal](https://github.com/catsmile100/Security-Vulnerabilities-Proposal/assets/85368621/5fdebb5a-f9df-418d-81ff-b15b5c0082d2)
+
+
 Security vulnerabilities refer to weaknesses or flaws in a system that can be exploited by attackers to compromise the confidentiality, integrity, or availability of the system or its data. In the context of proposal management systems, security vulnerabilities can arise when there are inadequacies in the system's design or implementation, leading to potential risks such as data breaches, unauthorized access, or disruption of services.
 
 In the case of Proposal 192 and Proposal 193, there exists a potential security vulnerability due to the overlapping epochs of the proposals. Proposal 192 has a start epoch of 18, while Proposal 193 has a start epoch of 16. This chronological inconsistency raises concerns regarding the system's ability to handle conflicts and ensure the orderly execution of proposals.
